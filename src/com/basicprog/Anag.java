@@ -10,7 +10,7 @@ public class Anag {
 
 		char[] a1 = s1.toCharArray();
 		char[] a2 = s2.toCharArray();
-
+// hhlojoj
 		Arrays.sort(a1);
 		System.out.println(a1);
 		Arrays.sort(a2);
